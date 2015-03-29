@@ -1,0 +1,12 @@
+.text 
+{
+  float: right;
+  width: 65%;
+  /*border: 2px solid red;*/
+}
+
+img.home
+{
+	width: 375;
+	height: 480;
+}
